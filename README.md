@@ -67,4 +67,27 @@ Each entity has unique stats:
 
 ## 🧱 Level File Format
 
-The level is loaded from a text file (e.g. `Level1.txt`) where:
+The level is loaded from a text file (e.g. `Level1.txt`) 
+
+
+
+---
+
+## 🖥️ How to Run
+
+1. Open the project in **Visual Studio** or **VS Code**.
+
+
+3. Run the program (`Ctrl + F5`).
+4. Move the player using arrow keys.
+5. Press **Esc** to quit.
+
+---
+
+## 🧑‍💻 Author
+
+Developed by *Vendela Magnusson* as part of the **ITHS C# Lab 2 – Object Oriented Programming** assignment.
+
+
+
+
